@@ -1,1 +1,1 @@
-# full_background_img
+# scott_background_img
